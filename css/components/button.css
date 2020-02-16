@@ -1,0 +1,14 @@
+.btn-blue, .btn-blue2 {
+	cursor:pointer;
+	background-color: #6D71DD;
+	padding: 15px 20px;
+	border-radius: 5px;
+	color: white;
+	font-weight: bold;
+	font-family: 'Roboto', sans-serif;
+	border: 0px;
+}
+
+.btn-blue2 {
+	width: 100%;
+}
